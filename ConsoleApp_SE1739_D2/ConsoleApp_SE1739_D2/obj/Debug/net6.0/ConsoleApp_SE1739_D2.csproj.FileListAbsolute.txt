@@ -1,0 +1,15 @@
+D:\UNIVERSITY\SE_5_SU_2023\PRN211\Project\Study\ConsoleApp_SE1739_D2\ConsoleApp_SE1739_D2\obj\Debug\net6.0\ConsoleApp_SE1739_D2.csproj.AssemblyReference.cache
+D:\UNIVERSITY\SE_5_SU_2023\PRN211\Project\Study\ConsoleApp_SE1739_D2\ConsoleApp_SE1739_D2\obj\Debug\net6.0\ConsoleApp_SE1739_D2.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNIVERSITY\SE_5_SU_2023\PRN211\Project\Study\ConsoleApp_SE1739_D2\ConsoleApp_SE1739_D2\obj\Debug\net6.0\ConsoleApp_SE1739_D2.AssemblyInfoInputs.cache
+D:\UNIVERSITY\SE_5_SU_2023\PRN211\Project\Study\ConsoleApp_SE1739_D2\ConsoleApp_SE1739_D2\obj\Debug\net6.0\ConsoleApp_SE1739_D2.AssemblyInfo.cs
+D:\UNIVERSITY\SE_5_SU_2023\PRN211\Project\Study\ConsoleApp_SE1739_D2\ConsoleApp_SE1739_D2\obj\Debug\net6.0\ConsoleApp_SE1739_D2.csproj.CoreCompileInputs.cache
+D:\UNIVERSITY\SE_5_SU_2023\PRN211\Project\Study\ConsoleApp_SE1739_D2\ConsoleApp_SE1739_D2\bin\Debug\net6.0\ConsoleApp_SE1739_D2.exe
+D:\UNIVERSITY\SE_5_SU_2023\PRN211\Project\Study\ConsoleApp_SE1739_D2\ConsoleApp_SE1739_D2\bin\Debug\net6.0\ConsoleApp_SE1739_D2.deps.json
+D:\UNIVERSITY\SE_5_SU_2023\PRN211\Project\Study\ConsoleApp_SE1739_D2\ConsoleApp_SE1739_D2\bin\Debug\net6.0\ConsoleApp_SE1739_D2.runtimeconfig.json
+D:\UNIVERSITY\SE_5_SU_2023\PRN211\Project\Study\ConsoleApp_SE1739_D2\ConsoleApp_SE1739_D2\bin\Debug\net6.0\ConsoleApp_SE1739_D2.dll
+D:\UNIVERSITY\SE_5_SU_2023\PRN211\Project\Study\ConsoleApp_SE1739_D2\ConsoleApp_SE1739_D2\bin\Debug\net6.0\ConsoleApp_SE1739_D2.pdb
+D:\UNIVERSITY\SE_5_SU_2023\PRN211\Project\Study\ConsoleApp_SE1739_D2\ConsoleApp_SE1739_D2\obj\Debug\net6.0\ConsoleApp_SE1739_D2.dll
+D:\UNIVERSITY\SE_5_SU_2023\PRN211\Project\Study\ConsoleApp_SE1739_D2\ConsoleApp_SE1739_D2\obj\Debug\net6.0\refint\ConsoleApp_SE1739_D2.dll
+D:\UNIVERSITY\SE_5_SU_2023\PRN211\Project\Study\ConsoleApp_SE1739_D2\ConsoleApp_SE1739_D2\obj\Debug\net6.0\ConsoleApp_SE1739_D2.pdb
+D:\UNIVERSITY\SE_5_SU_2023\PRN211\Project\Study\ConsoleApp_SE1739_D2\ConsoleApp_SE1739_D2\obj\Debug\net6.0\ConsoleApp_SE1739_D2.genruntimeconfig.cache
+D:\UNIVERSITY\SE_5_SU_2023\PRN211\Project\Study\ConsoleApp_SE1739_D2\ConsoleApp_SE1739_D2\obj\Debug\net6.0\ref\ConsoleApp_SE1739_D2.dll
