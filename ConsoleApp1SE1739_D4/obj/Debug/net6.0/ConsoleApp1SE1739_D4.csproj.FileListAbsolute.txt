@@ -1,0 +1,5 @@
+D:\UNIVERSITY\SE_5_SU_2023\PRN211\Project\Study\ConsoleApp1SE1739_D4\obj\Debug\net6.0\ConsoleApp1SE1739_D4.csproj.AssemblyReference.cache
+D:\UNIVERSITY\SE_5_SU_2023\PRN211\Project\Study\ConsoleApp1SE1739_D4\obj\Debug\net6.0\ConsoleApp1SE1739_D4.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNIVERSITY\SE_5_SU_2023\PRN211\Project\Study\ConsoleApp1SE1739_D4\obj\Debug\net6.0\ConsoleApp1SE1739_D4.AssemblyInfoInputs.cache
+D:\UNIVERSITY\SE_5_SU_2023\PRN211\Project\Study\ConsoleApp1SE1739_D4\obj\Debug\net6.0\ConsoleApp1SE1739_D4.AssemblyInfo.cs
+D:\UNIVERSITY\SE_5_SU_2023\PRN211\Project\Study\ConsoleApp1SE1739_D4\obj\Debug\net6.0\ConsoleApp1SE1739_D4.csproj.CoreCompileInputs.cache
